@@ -1,6 +1,6 @@
 import React from 'react'
 import Question from './question'
-import QuestionOne from './questionOne'
+import QuestionOne from './QuestionOne'
 import ErrorBoundary from '../../components/errorBoundary'
 
 const QuestionOneWrapper = () =>{
